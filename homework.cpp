@@ -1,4 +1,5 @@
 #include <iostream>
+#include "functions.hpp"
 void print_arr(int* arr, int n);
 void sum_array(int *array_first, int n);
 void check_array(int *array_check, int n);
